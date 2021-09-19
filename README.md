@@ -6,4 +6,4 @@ Experimental third party proxy of the javascript testing library uvu.
 
 Experimental.
 
-**Note**: The default branch is default.
+**Note**: The default branch is `default`.
